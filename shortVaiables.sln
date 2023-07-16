@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shortVaiables", "shortVaiables\shortVaiables.csproj", "{B82A0349-5BCF-4150-B53E-8D06FFB2FDEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B82A0349-5BCF-4150-B53E-8D06FFB2FDEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82A0349-5BCF-4150-B53E-8D06FFB2FDEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82A0349-5BCF-4150-B53E-8D06FFB2FDEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82A0349-5BCF-4150-B53E-8D06FFB2FDEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9C71C1F-CF92-45A5-BD55-9B4C5A25FD49}
+	EndGlobalSection
+EndGlobal
